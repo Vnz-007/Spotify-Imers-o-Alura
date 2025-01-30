@@ -4,6 +4,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta charset="UTF-8">
         <title>Spotify-Alura</title>
+        <link rel="stylesheet" href="vars.css">
+        <link rel="stylesheet" href="sidebar-footer.css">
         <link rel="stylesheet" href="reset.css">
         <link rel="stylesheet" href="style.css">
         <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
@@ -17,7 +19,7 @@
             <nav class="sidebar__navigation">
                 <div class="logo">
                     <a href="">
-                       <img src="./assets/icons/logo-spotify.png">
+                        <img src="./src/assets//icons/logo-spotify.png">
                     </a>
                 </div>
                     <ul>
@@ -64,6 +66,26 @@
             </div>
         </div>
         <maim>
+            <div class="main-container">
+                <nav class="header__navigation">
+                    <div class="navigation">
+                        <button class="arrow-left">
+                            <img src="./src/assets/icons/small-left.png" alt="seta esquerda">
+                        </button>
+                        <button class="arrow-right">
+                            <img src="./src/assets/icons/small-right.png" alt="seta direita">
+                        </button>
+                        <div class="header__search">
+                            <img src="./src/assets/icons/search.png" alt="">
+                            <input id="search-input" type="text" maxlength="800" placeholder="O que você quer ouvir?"/>
+                        </div>
+                        <div class="header__login">
+                            <button class="subscribe">Inscreva-se</button>
+                            <button class="login">Entrar</button>
+                        </div>
+                    </div>
+                </nav>
+            </div>
         </main>
         <footer class="disclaimer-premium">
             <div class="text">
