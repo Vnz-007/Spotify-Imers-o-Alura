@@ -9,11 +9,26 @@ function requestApi(searchTerm) {
         .then((result) => displayResults(result))
 }
 
-document.addEventListener('input'), function() {
+function displayResults() {
+    resultPlaylist.classList.add('hidden');
+    const artistName = getElementById('artist-name');
+    const artistImage = getElementById('artist-img');
+
+    result.forEach(element => {
+        artistName.innerText = element.name;
+        artistImage.src = element.urlImg;
+    });
+
+    resultArtist.classList.remove('hidden');
+}
+
+document.addEventListener('input', function() {
     const = searchTerm = searchInput.value.toLowerCase();
     if (searchTerm === '') {
        resultPlaylist.classList.add('hidden');
        resultArtist.classList.remove('hidden');
        return;
     }
-}
+
+    requestApi(searchTerm);
+});
