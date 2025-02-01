@@ -23,7 +23,7 @@ function displayResults() {
 }
 
 document.addEventListener('input', function() {
-    const = searchTerm = searchInput.value.toLowerCase();
+    const searchTerm = searchInput.value.toLowerCase();
     if (searchTerm === '') {
        resultPlaylist.classList.add('hidden');
        resultArtist.classList.remove('hidden');
