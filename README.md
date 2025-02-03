@@ -6,21 +6,24 @@
 > Desenvolvido com as linguagens usadas nas aulas. (01/02/2025)
 
 ## 💻 Composição formada pelas linguagens: 💻
-> #### HTML5 🟠
+> #### HTML5 🔴
 • Para Estruturação da Página;
 - Header, main, footer (barra lateral, barra de pesquisa, biblioteca, playlists, botões, conteúdo premium...).
 > #### - CSS3 🔵
-• Para a Estilização da Página;
+• Para a Estilização e Responsividade da Página;
 - Barra lateral, barra de pesquisa, conteúdo premium, fundos, imagens, botões, playlists...
 > #### - JavaScript6 🟡
-• Para a Interatividade da Página;
+• Para a Lógica, Interatividade e Manipulação Dinâmica da Página;
 - Barra de pesquisa, busca, playlists, músicas...
 > #### - React 🔷
-• Para a Facilitação e Versatilidade na finalização do projeto;
+• Para a Facilitação e Versatilidade;
+- finalização do projeto...
 > #### - Node.js 🟩
-• Utilizado para a usabilidade do React.
+• Utilizado para Ambiente de Execução;
+- Para o JS6 no servidor...
 > #### - API's 🔸
-• API's usados na imersão, para a interatividade da barra de pesquisa...
+• API "Fake" personalizado, usado na imersão;
+para simulação de dados para aplicação, interatividade da barra de pesquisa...
 
 ## !+! Mais sobre o Projeto: !+!
 > Feito no celular + 05 aulas da Alura + Desafios, passados aos finais das aulas; <br>
