@@ -5,7 +5,8 @@
 > Projeto baseado nas aulas da Imersão Front-end|Alura; <br>
 > Desenvolvido com as linguagens usadas nas aulas. (01/02/2025)
 
-<img width="100" src="./spotify-react/src/assets/icons/logo-spotify.png">
+![image](https://github.com/Vnz-007/Spotify-Imersao-Alura/blob/main/Spotify-Alura.jpg) 
+<img width="100" src="">
 
 ## 💻 Composição formada pelas linguagens: 💻
 > #### HTML5 🔴
