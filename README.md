@@ -5,8 +5,12 @@
 > Projeto baseado nas aulas da Imersão Front-end|Alura; <br>
 > Desenvolvido com as linguagens usadas nas aulas. (01/02/2025)
 
-![image](https://github.com/Vnz-007/Spotify-Imersao-Alura/blob/main/Spotify-Alura.jpg) 
-<img width="100" src="./src/estilização/html5.png">
+![image](https://github.com/Vnz-007/Spotify-Imersao-Alura/blob/main/src/estiliza%C3%A7%C3%A3o/Spotify-Alura.jpg) 
+<img width="50" src="./src/estilização/HTML5.png">
+<img width="50" src="./src/estilização/CSS3.png">
+<img width="50" src="./src/estilização/JS6.png">
+<img width="50" src="./src/estilização/React.png">
+<img width="50" src="./src/estilização/Node.js.png">
 
 ## 💻 Composição formada pelas linguagens: 💻
 > #### HTML5 🔴
